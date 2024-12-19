@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there!! 👋
 
-<!--
-**YominJaramilloM/YominJaramilloM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Biomedical Engineer and University Lecturer**
 
-Here are some ideas to get you started:
+:pencil: **Master's in Automation and Control with a focus on Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Passionate about developing intelligent agents and machine learning and robotics**
+
+:books: **Dedicated educator shaping the next generation of AI engineers**
+
+:zap: **Explorer of innovative projects in sustainable packaging design**
+
+:heart: **Lover of music, sports, and project management**
+
+## Take a look at my work
+[Papers](https://scholar.google.com/citations?user=PIsR0_AAAAAJ&hl=en)
+
+## Contact
+_yominjaramillo@outlook.com_
+
+## Some important Repositories
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/YominJaramilloM/Machine_Learning_Basics)](https://github.com/YominJaramilloM/Machine_Learning_Basics)
+
+---
+
+:bulb: "Always learning, always innovating."
